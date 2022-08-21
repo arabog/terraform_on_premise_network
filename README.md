@@ -1,4 +1,4 @@
-## Exercise
+## PRIVATE CLOUD CONNECTED TO ON-PREMISE NETWORK
 ![p1](p1.jpeg?raw=true "p1")
 
 Create an "extension of the on-premises network"
